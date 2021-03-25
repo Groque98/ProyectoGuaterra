@@ -1,0 +1,250 @@
+C:\Users\alebm\Documents\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\alebm\Documents\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\alebm\Documents\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.csprojAssemblyReference.cache
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\alebm\Documents\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.csprojAssemblyReference.cache
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CoreCompileInputs.cache
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\ProyectoBD\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.csprojAssemblyReference.cache
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.csprojAssemblyReference.cache
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\NuevoProyecto\drive-download-20191102T144008Z-001\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Users\Giovanni\Downloads\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Login.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Alquileres.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\bin\Debug\es-GT\Guaterra.resources.dll
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.es-GT.resources
+C:\Universidad\Base De Datos I\Proyecto\Guaterra\Guaterra\obj\Debug\es-GT\Guaterra.resources.dll
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\bin\Debug\es-GT\Guaterra.resources.dll
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Alquileres.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Login.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.es-GT.resources
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\es-GT\Guaterra.resources.dll
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\NuevoProyecto\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\es-GT\Guaterra.resources.dll
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.csprojAssemblyReference.cache
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Alquileres.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Login.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.es-GT.resources
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\es-GT\Guaterra.resources.dll
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\BM\Documents\BD1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\bin\Debug\es-GT\Guaterra.resources.dll
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.csprojAssemblyReference.cache
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Login.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.es-GT.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\es-GT\Guaterra.resources.dll
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Comisiones.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.CuotasEngancheIntereses.resources
+C:\Users\alebm\Documents\bd1\Proyecto Base De Datos I\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.tipopropiedades.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\es-GT\Guaterra.resources.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Comisiones.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.CuotasEngancheIntereses.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.tipopropiedades.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Login.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.es-GT.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\es-GT\Guaterra.resources.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.Reportes.Reporte.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.InfCli.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.InfEmp.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.InfProp.resources
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\FlashControlV71.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\stdole.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CopyComplete
+C:\Users\BM\Documents\BD1\Guaterra\Guaterra\obj\Debug\Guaterra.ControlDeServicios.ControlAlquileres.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\Guaterra.exe.config
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\Guaterra.pdb
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\es-GT\Guaterra.resources.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.CrystalReports.Design.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.Web.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\FlashControlV71.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\stdole.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.ControlDeServicios.ControlAlquileres.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.Form1.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.InfCli.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.InfEmp.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.InfProp.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Comisiones.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.CuotasEngancheIntereses.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Empleados.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Puestos.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.tipopropiedades.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Clientes.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Propiedades.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Compradores.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Arrendadores.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientosExternos.Servicios.Login.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.Properties.Resources.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.Reportes.Reporte.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.MantenimientoInternos.Usuarios.es-GT.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\es-GT\Guaterra.resources.dll
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.csproj.CopyComplete
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.exe
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.pdb
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.InfRPagos.resources
+C:\Users\Angel\Desktop\FinalBASE\Guaterra\Guaterra\obj\Debug\Guaterra.InfRServicios.resources
